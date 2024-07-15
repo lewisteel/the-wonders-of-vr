@@ -46,6 +46,8 @@ body {
     position:absolute;
     right: 10px;
     vertical-align: bottom;
+    background-color: white;
+    padding: 20px;
 }
 
 .thicc-line {
